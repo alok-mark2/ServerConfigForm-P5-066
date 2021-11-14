@@ -1,0 +1,5 @@
+D:\Pengembangan app terdistribusi\SERVER CONFIG & CILENT PROXY\Server ConfigureForm-P5-066\Server ConfigureForm-P5-066\obj\Debug\Server ConfigureForm-P5-066.csproj.AssemblyReference.cache
+D:\Pengembangan app terdistribusi\SERVER CONFIG & CILENT PROXY\Server ConfigureForm-P5-066\Server ConfigureForm-P5-066\obj\Debug\Server_ConfigureForm_P5_066.Form1.resources
+D:\Pengembangan app terdistribusi\SERVER CONFIG & CILENT PROXY\Server ConfigureForm-P5-066\Server ConfigureForm-P5-066\obj\Debug\Server_ConfigureForm_P5_066.Properties.Resources.resources
+D:\Pengembangan app terdistribusi\SERVER CONFIG & CILENT PROXY\Server ConfigureForm-P5-066\Server ConfigureForm-P5-066\obj\Debug\Server ConfigureForm-P5-066.csproj.GenerateResource.cache
+D:\Pengembangan app terdistribusi\SERVER CONFIG & CILENT PROXY\Server ConfigureForm-P5-066\Server ConfigureForm-P5-066\obj\Debug\Server ConfigureForm-P5-066.csproj.CoreCompileInputs.cache
